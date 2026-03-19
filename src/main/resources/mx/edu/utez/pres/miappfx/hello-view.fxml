@@ -12,7 +12,6 @@
     </padding>
 
     <Label fx:id="welcomeText"/>
-    <Button text="Hoal chabo" onAction="#onHelloButtonClick"/>
+    <Button text="Hello!" onAction="#onHelloButtonClick"/>
 
-    <Button text="Mis fans daran like y comentaran manseko ha" onAction="#onHello2ButtonClick"/>
 </VBox>

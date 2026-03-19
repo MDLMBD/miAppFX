@@ -9,12 +9,8 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonClick(){
-        welcomeText.setText("Tengo hambre");
+        welcomeText.setText("Welcome to FX app!");
     }
 
-    @FXML
-    protected void onHello2ButtonClick(){
-        welcomeText.setText("Tengo hambre we");
-    }
 
 }
